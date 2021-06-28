@@ -1,4 +1,4 @@
-The fourth iteration of brittanychiang.com built with Gatsby and hosted with Netlify
+The fourth iteration of portfolio built with Gatsby and hosted with Netlify.
 
 ## 🛠 Installation & Set Up
 
