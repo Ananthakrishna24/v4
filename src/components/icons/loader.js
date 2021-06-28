@@ -27,3 +27,8 @@ const IconLoader = () => (
 );
 
 export default IconLoader;
+
+{
+  /* <text x = "28.5" y = "70" fill="currentColor" fontSize="55px" fontFamily = ""> 
+       </text> */
+}
