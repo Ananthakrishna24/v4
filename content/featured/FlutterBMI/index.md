@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Flutter based BMI calculator'
-cover: './group.png'
+cover: './Group.png'
 github: 'https://github.com/Ananthakrishna24/flutterBMI'
 external: 'https://github.com/Ananthakrishna24/flutterBMI'
 tech:
