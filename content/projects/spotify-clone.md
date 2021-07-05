@@ -1,5 +1,5 @@
 ---
-date: '0'
+date: '2021'
 title: 'Spotify Clone'
 cover: './spotify.png'
 github: 'https://github.com/Ananthakrishna24/spotify-react-clone'

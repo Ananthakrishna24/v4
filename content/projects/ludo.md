@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2021'
 title: 'Python Based Ludo Game'
 github: 'https://github.com/Ananthakrishna24/python-ludo-game'
 external: ''

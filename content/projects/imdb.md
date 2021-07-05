@@ -1,5 +1,5 @@
 ---
-date: '0'
+date: '2021'
 title: 'IMDB-Sentiment-Analysis'
 cover: './senti.jpeg'
 github: 'https://github.com/Ananthakrishna24/IMDB-Sentiment-Analysis'
